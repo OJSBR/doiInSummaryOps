@@ -1,0 +1,11 @@
+/**
+ * @file plugins/generic/doiInSummaryOps/styles/doi.css
+ *
+ * Copyright (c) 2015-2023 Lepidus Tecnologia
+ * Copyright (c) 2026 OJSBR (https://ojsbr.com)
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ */
+
+.obj_preprint_summary .doiInSummary {
+    margin: 5px 0;
+}
