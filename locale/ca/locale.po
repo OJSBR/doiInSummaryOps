@@ -7,6 +7,7 @@ msgstr ""
 "Language-Team: OJSBR\n"
 "Language: ca\n"
 
+
 msgid "plugins.generic.doiInSummaryOps.displayName"
 msgstr "DOI al resum"
 

@@ -5,7 +5,7 @@ name: Package plugin
 # to the matching Release automatically.
 #
 # The tarball unpacks as `<plugin>/…` (the repository name), so it can be
-# installed straight through OPS "Upload A New Plugin".
+# installed straight through OJS/OMP "Upload A New Plugin".
 
 on:
   push:

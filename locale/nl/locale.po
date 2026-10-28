@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nl\n"
+
+
+msgid "plugins.generic.doiInSummaryOps.displayName"
+msgstr "DOI in het overzicht"
+
+msgid "plugins.generic.doiInSummaryOps.description"
+msgstr "Toont de DOI van elke preprint in de lijsten met preprints, zoals de startpagina van de server en de pagina's van de secties."

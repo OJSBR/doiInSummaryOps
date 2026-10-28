@@ -173,3 +173,7 @@ class DoiInSummaryOpsPlugin extends GenericPlugin
         return Hook::CONTINUE;
     }
 }
+
+if (!PKP_STRICT_MODE) {
+    class_alias('\\APP\\plugins\\generic\\doiInSummaryOps\\DoiInSummaryOpsPlugin', '\\DoiInSummaryOpsPlugin');
+}

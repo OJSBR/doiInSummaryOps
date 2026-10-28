@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hu\n"
+
+
+#, fuzzy
+msgid "plugins.generic.doiInSummaryOps.displayName"
+msgstr "DOI az összefoglalóban"
+
+#, fuzzy
+msgid "plugins.generic.doiInSummaryOps.description"
+msgstr "Megjeleníti minden preprint DOI-azonosítóját a preprintlistákban, például a szerver kezdőlapján és a rovatok oldalain."
