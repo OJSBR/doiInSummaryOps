@@ -4,6 +4,15 @@
 [![Version](https://img.shields.io/badge/version-3.5.0.1-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
+> **⚠️ Archived — use [`doiInSummary`](https://github.com/OJSBR/doiInSummary) instead.** Since
+> 3.5.1.0 the same package shows the DOI in the lists of OJS, OPS and OMP:
+> [download 3.5.1.0](https://github.com/OJSBR/doiInSummary/releases/download/3.5.1.0/doiInSummary-3.5.1.0.tar.gz).
+> To switch, disable this plugin, install `doiInSummary` and enable it; there is nothing to configure.
+>
+> 🇧🇷 **Arquivado — use o [`doiInSummary`](https://github.com/OJSBR/doiInSummary).** Desde a
+> 3.5.1.0 o mesmo pacote mostra o DOI nas listas do OJS, do OPS e do OMP. Para trocar, desative
+> este plugin, instale o `doiInSummary` e ative-o; não há nada a configurar.
+
 **⬇️ Install package:** [OPS 3.5](https://github.com/OJSBR/doiInSummaryOps/releases/download/3.5.0.1/doiInSummaryOps-3.5.0.1.tar.gz), or browse all [Releases](../../releases).
 
 A generic plugin for **Open Preprint Systems (OPS)** that shows each preprint's **DOI URL** in
